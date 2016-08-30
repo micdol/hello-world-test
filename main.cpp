@@ -8,6 +8,8 @@
 using namespace std;
 using namespace cv;
 
+//u said what what
+
 int main( int argc, char** argv )
 {
     if( argc != 2)
